@@ -1,2 +1,5 @@
-*.png
+*.egg-info
 *.log
+*.png
+*.pyc
+*.sw?
